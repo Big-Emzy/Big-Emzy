@@ -7,8 +7,4 @@ As an experienced full stack web developer, my goal is to leverage my skills and
 ## 🛠 Skills
 Python, Javascript, HTML, CSS...
 
-## 🔗 Links
-
-[![linkedin](https://www.linkedin.com/in/david-unah/)](https://www.linkedin.com/)
-[![twitter](https://twitter.com/David_Emzy)](https://twitter.com/)
 
