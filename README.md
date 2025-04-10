@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Big-Emzy&show_icons=true&locale=en" alt="Big-Emzy" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=Big-Emzy" alt="GitHub Streak" /></p
+<p>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Big-Emzy)](https://git.io/streak-stats)</p>
