@@ -1,4 +1,4 @@
-[![MasterHead]([https://digitaledgetech.in/images/Banner_02_new.gif](https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?ga=GA1.1.945843794.1726646547&semt=ais_hybrid))]
+[![MasterHead](https://digitaledgetech.in/images/Banner_02_new.gif)]
 <h1 align="center">Hi 👋, I'm David Unah</h1>
 <h3 align="center">A highly skilled and detail-oriented frontend developer, with experience in developing responsive and user-friendly web applications. Proficient in HTML, CSS, JavaScript, and various frontend frameworks such as React. Strong problem-solving abilities and a passion for creating visually appealing and intuitive user interfaces. Excellent teamwork and communication skills.
 </h3>
